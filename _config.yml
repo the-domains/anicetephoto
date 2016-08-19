@@ -1,4 +1,3 @@
-layout_spectrum: 0.6902459587436169
 typography_spectrum: 0.9098497675731778
 color:
   brandStrength: 0.5296447700820863
@@ -11,8 +10,17 @@ color:
     - '#BAE2DA'
     - '#EAF6F4'
     - '#D9EFEB'
+layout_spectrum: 0.6902459587436169
+author:
+  name: Jeremy Anicete
+  email: jpanicete@gmail.com
+  url: www.anicetephoto.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6fc9a6db-3e1d-4d86-a1c3-640fbc784cd8.jpg
 name: anicetephoto
 navigation:
   - name: '@anicetephoto'
     url: 'https://www.instagram.com/anicetephoto/'
     type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/9671f383-ee52-40fb-a515-7e69dfec99a2.jpg
