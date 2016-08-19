@@ -12,3 +12,7 @@ color:
     - '#EAF6F4'
     - '#D9EFEB'
 name: anicetephoto
+navigation:
+  - name: '@anicetephoto'
+    url: 'https://www.instagram.com/anicetephoto/'
+    type: external
